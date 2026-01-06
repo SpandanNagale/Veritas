@@ -45,11 +45,4 @@ graph TD
     
     LLM -->|Final Answer| UI
 
-🛠️ Prerequisites
-OS: Windows 10/11 (WSL2), Linux, or MacOS.
 
-Docker Desktop: Installed and running.
-
-GPU (Recommended): NVIDIA GPU with at least 8GB VRAM (Tested on RTX 5070 12GB).
-
-Python: 3.10+
